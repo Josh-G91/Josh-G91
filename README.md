@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Gonzalez
-- 👀 I’m interested in Music, Movies and Math.
+- 👀 I’m interested in most likely some nerdy stuff.
 - 🌱 I’m currently learning Math and some type of coding skill.
 - 💞️ I’m looking to collaborate on Software Engineering, ML and Data Science projects.
 - 📫 How to reach me joshgonzalez1191@berkeley.edu
